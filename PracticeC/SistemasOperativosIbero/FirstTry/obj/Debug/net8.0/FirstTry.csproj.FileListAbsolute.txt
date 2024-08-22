@@ -1,0 +1,14 @@
+/Users/alejandrogomez/Documents/Universidad/Intercambio/Ciclo_02_2024/SO/PracticeC/SistemasOperativosIbero/FirstTry/bin/Debug/net8.0/FirstTry
+/Users/alejandrogomez/Documents/Universidad/Intercambio/Ciclo_02_2024/SO/PracticeC/SistemasOperativosIbero/FirstTry/bin/Debug/net8.0/FirstTry.deps.json
+/Users/alejandrogomez/Documents/Universidad/Intercambio/Ciclo_02_2024/SO/PracticeC/SistemasOperativosIbero/FirstTry/bin/Debug/net8.0/FirstTry.runtimeconfig.json
+/Users/alejandrogomez/Documents/Universidad/Intercambio/Ciclo_02_2024/SO/PracticeC/SistemasOperativosIbero/FirstTry/bin/Debug/net8.0/FirstTry.dll
+/Users/alejandrogomez/Documents/Universidad/Intercambio/Ciclo_02_2024/SO/PracticeC/SistemasOperativosIbero/FirstTry/bin/Debug/net8.0/FirstTry.pdb
+/Users/alejandrogomez/Documents/Universidad/Intercambio/Ciclo_02_2024/SO/PracticeC/SistemasOperativosIbero/FirstTry/obj/Debug/net8.0/FirstTry.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alejandrogomez/Documents/Universidad/Intercambio/Ciclo_02_2024/SO/PracticeC/SistemasOperativosIbero/FirstTry/obj/Debug/net8.0/FirstTry.AssemblyInfoInputs.cache
+/Users/alejandrogomez/Documents/Universidad/Intercambio/Ciclo_02_2024/SO/PracticeC/SistemasOperativosIbero/FirstTry/obj/Debug/net8.0/FirstTry.AssemblyInfo.cs
+/Users/alejandrogomez/Documents/Universidad/Intercambio/Ciclo_02_2024/SO/PracticeC/SistemasOperativosIbero/FirstTry/obj/Debug/net8.0/FirstTry.csproj.CoreCompileInputs.cache
+/Users/alejandrogomez/Documents/Universidad/Intercambio/Ciclo_02_2024/SO/PracticeC/SistemasOperativosIbero/FirstTry/obj/Debug/net8.0/FirstTry.dll
+/Users/alejandrogomez/Documents/Universidad/Intercambio/Ciclo_02_2024/SO/PracticeC/SistemasOperativosIbero/FirstTry/obj/Debug/net8.0/refint/FirstTry.dll
+/Users/alejandrogomez/Documents/Universidad/Intercambio/Ciclo_02_2024/SO/PracticeC/SistemasOperativosIbero/FirstTry/obj/Debug/net8.0/FirstTry.pdb
+/Users/alejandrogomez/Documents/Universidad/Intercambio/Ciclo_02_2024/SO/PracticeC/SistemasOperativosIbero/FirstTry/obj/Debug/net8.0/FirstTry.genruntimeconfig.cache
+/Users/alejandrogomez/Documents/Universidad/Intercambio/Ciclo_02_2024/SO/PracticeC/SistemasOperativosIbero/FirstTry/obj/Debug/net8.0/ref/FirstTry.dll
