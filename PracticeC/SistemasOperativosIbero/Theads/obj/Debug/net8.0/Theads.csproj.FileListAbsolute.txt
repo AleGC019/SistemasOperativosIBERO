@@ -1,0 +1,15 @@
+/Users/alejandrogomez/Documents/Universidad/Intercambio/Ciclo_02_2024/SO/SistemasOperativosIBERO/PracticeC/SistemasOperativosIbero/Theads/bin/Debug/net8.0/Theads
+/Users/alejandrogomez/Documents/Universidad/Intercambio/Ciclo_02_2024/SO/SistemasOperativosIBERO/PracticeC/SistemasOperativosIbero/Theads/bin/Debug/net8.0/Theads.deps.json
+/Users/alejandrogomez/Documents/Universidad/Intercambio/Ciclo_02_2024/SO/SistemasOperativosIBERO/PracticeC/SistemasOperativosIbero/Theads/bin/Debug/net8.0/Theads.runtimeconfig.json
+/Users/alejandrogomez/Documents/Universidad/Intercambio/Ciclo_02_2024/SO/SistemasOperativosIBERO/PracticeC/SistemasOperativosIbero/Theads/bin/Debug/net8.0/Theads.dll
+/Users/alejandrogomez/Documents/Universidad/Intercambio/Ciclo_02_2024/SO/SistemasOperativosIBERO/PracticeC/SistemasOperativosIbero/Theads/bin/Debug/net8.0/Theads.pdb
+/Users/alejandrogomez/Documents/Universidad/Intercambio/Ciclo_02_2024/SO/SistemasOperativosIBERO/PracticeC/SistemasOperativosIbero/Theads/obj/Debug/net8.0/Theads.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alejandrogomez/Documents/Universidad/Intercambio/Ciclo_02_2024/SO/SistemasOperativosIBERO/PracticeC/SistemasOperativosIbero/Theads/obj/Debug/net8.0/Theads.AssemblyInfoInputs.cache
+/Users/alejandrogomez/Documents/Universidad/Intercambio/Ciclo_02_2024/SO/SistemasOperativosIBERO/PracticeC/SistemasOperativosIbero/Theads/obj/Debug/net8.0/Theads.AssemblyInfo.cs
+/Users/alejandrogomez/Documents/Universidad/Intercambio/Ciclo_02_2024/SO/SistemasOperativosIBERO/PracticeC/SistemasOperativosIbero/Theads/obj/Debug/net8.0/Theads.csproj.CoreCompileInputs.cache
+/Users/alejandrogomez/Documents/Universidad/Intercambio/Ciclo_02_2024/SO/SistemasOperativosIBERO/PracticeC/SistemasOperativosIbero/Theads/obj/Debug/net8.0/Theads.sourcelink.json
+/Users/alejandrogomez/Documents/Universidad/Intercambio/Ciclo_02_2024/SO/SistemasOperativosIBERO/PracticeC/SistemasOperativosIbero/Theads/obj/Debug/net8.0/Theads.dll
+/Users/alejandrogomez/Documents/Universidad/Intercambio/Ciclo_02_2024/SO/SistemasOperativosIBERO/PracticeC/SistemasOperativosIbero/Theads/obj/Debug/net8.0/refint/Theads.dll
+/Users/alejandrogomez/Documents/Universidad/Intercambio/Ciclo_02_2024/SO/SistemasOperativosIBERO/PracticeC/SistemasOperativosIbero/Theads/obj/Debug/net8.0/Theads.pdb
+/Users/alejandrogomez/Documents/Universidad/Intercambio/Ciclo_02_2024/SO/SistemasOperativosIBERO/PracticeC/SistemasOperativosIbero/Theads/obj/Debug/net8.0/Theads.genruntimeconfig.cache
+/Users/alejandrogomez/Documents/Universidad/Intercambio/Ciclo_02_2024/SO/SistemasOperativosIBERO/PracticeC/SistemasOperativosIbero/Theads/obj/Debug/net8.0/ref/Theads.dll

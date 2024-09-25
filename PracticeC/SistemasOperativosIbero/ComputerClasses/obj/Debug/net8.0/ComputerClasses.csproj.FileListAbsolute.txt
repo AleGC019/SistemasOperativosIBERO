@@ -1,0 +1,15 @@
+/Users/alejandrogomez/Documents/Universidad/Intercambio/Ciclo_02_2024/SO/SistemasOperativosIBERO/PracticeC/SistemasOperativosIbero/ComputerClasses/bin/Debug/net8.0/ComputerClasses
+/Users/alejandrogomez/Documents/Universidad/Intercambio/Ciclo_02_2024/SO/SistemasOperativosIBERO/PracticeC/SistemasOperativosIbero/ComputerClasses/bin/Debug/net8.0/ComputerClasses.deps.json
+/Users/alejandrogomez/Documents/Universidad/Intercambio/Ciclo_02_2024/SO/SistemasOperativosIBERO/PracticeC/SistemasOperativosIbero/ComputerClasses/bin/Debug/net8.0/ComputerClasses.runtimeconfig.json
+/Users/alejandrogomez/Documents/Universidad/Intercambio/Ciclo_02_2024/SO/SistemasOperativosIBERO/PracticeC/SistemasOperativosIbero/ComputerClasses/bin/Debug/net8.0/ComputerClasses.dll
+/Users/alejandrogomez/Documents/Universidad/Intercambio/Ciclo_02_2024/SO/SistemasOperativosIBERO/PracticeC/SistemasOperativosIbero/ComputerClasses/bin/Debug/net8.0/ComputerClasses.pdb
+/Users/alejandrogomez/Documents/Universidad/Intercambio/Ciclo_02_2024/SO/SistemasOperativosIBERO/PracticeC/SistemasOperativosIbero/ComputerClasses/obj/Debug/net8.0/ComputerClasses.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alejandrogomez/Documents/Universidad/Intercambio/Ciclo_02_2024/SO/SistemasOperativosIBERO/PracticeC/SistemasOperativosIbero/ComputerClasses/obj/Debug/net8.0/ComputerClasses.AssemblyInfoInputs.cache
+/Users/alejandrogomez/Documents/Universidad/Intercambio/Ciclo_02_2024/SO/SistemasOperativosIBERO/PracticeC/SistemasOperativosIbero/ComputerClasses/obj/Debug/net8.0/ComputerClasses.AssemblyInfo.cs
+/Users/alejandrogomez/Documents/Universidad/Intercambio/Ciclo_02_2024/SO/SistemasOperativosIBERO/PracticeC/SistemasOperativosIbero/ComputerClasses/obj/Debug/net8.0/ComputerClasses.csproj.CoreCompileInputs.cache
+/Users/alejandrogomez/Documents/Universidad/Intercambio/Ciclo_02_2024/SO/SistemasOperativosIBERO/PracticeC/SistemasOperativosIbero/ComputerClasses/obj/Debug/net8.0/ComputerClasses.sourcelink.json
+/Users/alejandrogomez/Documents/Universidad/Intercambio/Ciclo_02_2024/SO/SistemasOperativosIBERO/PracticeC/SistemasOperativosIbero/ComputerClasses/obj/Debug/net8.0/ComputerClasses.dll
+/Users/alejandrogomez/Documents/Universidad/Intercambio/Ciclo_02_2024/SO/SistemasOperativosIBERO/PracticeC/SistemasOperativosIbero/ComputerClasses/obj/Debug/net8.0/refint/ComputerClasses.dll
+/Users/alejandrogomez/Documents/Universidad/Intercambio/Ciclo_02_2024/SO/SistemasOperativosIBERO/PracticeC/SistemasOperativosIbero/ComputerClasses/obj/Debug/net8.0/ComputerClasses.pdb
+/Users/alejandrogomez/Documents/Universidad/Intercambio/Ciclo_02_2024/SO/SistemasOperativosIBERO/PracticeC/SistemasOperativosIbero/ComputerClasses/obj/Debug/net8.0/ComputerClasses.genruntimeconfig.cache
+/Users/alejandrogomez/Documents/Universidad/Intercambio/Ciclo_02_2024/SO/SistemasOperativosIBERO/PracticeC/SistemasOperativosIbero/ComputerClasses/obj/Debug/net8.0/ref/ComputerClasses.dll
