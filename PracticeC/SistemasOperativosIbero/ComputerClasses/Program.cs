@@ -8,9 +8,10 @@ public class Program
         // Crear procesador y almacenamiento
         Procesador procesador = new Procesador("Intel i7");
         Almacenamiento almacenamiento = new Almacenamiento("SSD", "1TB");
+        Usuario usuario = new Usuario("Juan", "juan@gmial.com");
 
         // Crear la computadora con su procesador y almacenamiento
-        Computadora computadora = new Computadora("Dell", procesador, almacenamiento);
+        Computadora computadora = new Computadora("Dell", procesador, almacenamiento, usuario);
 
         // Agregar Memorias RAM
         computadora.MemoriasRAM.Add(new MemoriaRAM(16)); // 16GB RAM
@@ -44,6 +45,9 @@ public class Program
         // Simular una acción en la computadora usando los periféricos conectados
         SimularEscribir(teclado);
         SimularClic(mouse);
+        
+        //Mostrar el usuario de la computadora
+        Console.WriteLine($"\nUsuario de la computadora: {computadora.Usuario.Nombre} ({computadora.Usuario.Correo})");
         
         //Esperar tecla para cerrar
         Console.WriteLine("\nPresione cualquier tecla para salir...");
