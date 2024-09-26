@@ -7,7 +7,7 @@ public class Program
     {
         // Crear procesador y almacenamiento
         Procesador procesador = new Procesador("Intel i7");
-        Almacenamiento almacenamiento = new Almacenamiento("SSD");
+        Almacenamiento almacenamiento = new Almacenamiento("SSD", "1TB");
 
         // Crear la computadora con su procesador y almacenamiento
         Computadora computadora = new Computadora("Dell", procesador, almacenamiento);
@@ -20,7 +20,7 @@ public class Program
         computadora.TarjetaMadre = new TarjetaMadre("ASUS Prime");
 
         // Mostrar los componentes principales de la computadora
-        Console.WriteLine("------ Componentes de la Computadora ------");
+        Console.WriteLine("\n------ Componentes de la Computadora ------\n");
         computadora.MostrarComponentes();
         MostrarMemorias(computadora);
         MostrarTarjetaMadre(computadora);
@@ -44,6 +44,10 @@ public class Program
         // Simular una acción en la computadora usando los periféricos conectados
         SimularEscribir(teclado);
         SimularClic(mouse);
+        
+        //Esperar tecla para cerrar
+        Console.WriteLine("\nPresione cualquier tecla para salir...");
+        Console.ReadKey();
     }
 
     // Función para mostrar las memorias RAM instaladas

@@ -17,4 +17,4 @@ public class PuertoUSB
         ConectadoA = otroPuerto;
         Console.WriteLine("Puerto USB conectado.");
     }
-}
+} 
